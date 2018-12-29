@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSplash">#73BBA9</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="duskYellow">#ffec40</color>
+    <color name="lightGrey">#a040ff</color>
+    <color name="lightgray">#DFDFDF</color>
+    <color name="darkgray">#747474</color>
+    <color name="background">#ffffff</color>
+</resources>

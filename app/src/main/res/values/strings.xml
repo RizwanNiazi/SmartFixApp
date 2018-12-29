@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="title_activity_maps">Smart Fix</string>
+    <string name="app_name">Smart Fix</string>
+
+    <!--get started screen -->
+    <string name="Continue_as_Technician">Continue as Technician</string>
+    <string name="Continue_as_Customer">Continue as Customer</string>
+    <string name="or">OR</string>
+
+    <!--login && sigup screen -->
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_cpassword">Conform Password</string>
+
+    <string name="create_new_account">Create New Account</string>
+    <string name="forget_password">Forgot Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">SignUp</string>
+
+    <string name="email_require">valid email require</string>
+    <string name="password_missing">password is missing</string>
+    <string name="invalid_email">invalid email</string>
+
+
+    <string name="tech_info">Technician Information</string>
+
+    <!--forget password -->
+    <string name="forget_note">Please enter your listed email address and hit the send button\nYou will receive an email with a secret code to recover you forgotten password</string>
+    <string name="have_code">Already have a code?</string>
+    <string name="forget_instruction">Please enter your secret code and new password</string>
+    <string name="secret_code">Secret Code</string>
+    <string name="new_password">New Password</string>
+
+    <!--list of cities-->
+    <array name="cities">
+        <item>Lahore</item>
+        <item>Karachi</item>
+        <item>Islamabad</item>
+        <item>Multan</item>
+        <item>Faisalabad</item>
+        <item>Rawalpindi</item>
+        <item>Peshawer</item>
+        <item>Quetta</item>
+        <item>Gawader</item>
+
+    </array>
+
+
+    <!--list of services-->
+    <array name="services">
+        <item>Electrician</item>
+        <item>Plumber</item>
+        <item>Carpenter</item>
+
+    </array>
+
+    <string name="back">Back</string>
+    <string name="aboutApp">About Smart Fix</string>
+    <string name="conform">Search Result</string>
+
+    <string name="order_place">Order Placed</string>
+    <string name="order_note">Our technician is comming to your location within 5 mint</string>
+    <string name="chnage_language">Change Language</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169587467753",
+    "firebase_url": "https://smartfixapp-48a31.firebaseio.com",
+    "project_id": "smartfixapp-48a31",
+    "storage_bucket": "smartfixapp-48a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169587467753:android:7a3d28245d55c8e1",
+        "android_client_info": {
+          "package_name": "com.example.dell.smartfixapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169587467753-31c6575sa1rcjssviod6st5vrfuife7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.smartfixapp",
+            "certificate_hash": "df5f1156a0946ebaabb42d00570267c87b6968a6"
+          }
+        },
+        {
+          "client_id": "169587467753-u41l5i0tq77htags8cg807fm414q5epb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MaaBI7rhtIL59Hwv-5Z0jcCaO8ANPcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169587467753-u41l5i0tq77htags8cg807fm414q5epb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

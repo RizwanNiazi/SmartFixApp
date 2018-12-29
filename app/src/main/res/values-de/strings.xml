@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Fix</string>
+
+    <!--get started screen -->
+    <string name="Continue_as_Technician">Weiter als Techniker</string>
+    <string name="Continue_as_Customer">Weiter als Kunde</string>
+    <string name="or">ODER</string>
+
+    <!--login && sigup screen -->
+    <string name="signin">EINLOGGEN</string>
+    <string name="signup">ANMELDEN</string>
+    <string name="hint_email">E-Mail-Addresse</string>
+    <string name="hint_name">Vollständiger Name</string>
+    <string name="hint_password">Passwort</string>
+    <string name="hint_cpassword">Passwort bestätigen</string>
+
+    <string name="create_new_account">Neuen Account erstellen</string>
+    <string name="forget_password">Passwort vergessen</string>
+    <string name="btn_login">Anmeldung</string>
+    <string name="btn_signup">Anmelden</string>
+
+    <string name="email_require">Gültige E-Mail erforderlich</string>
+    <string name="password_missing">Passwort fehlt</string>
+    <string name="invalid_email">ungültige E-Mail</string>
+
+
+    <string name="tech_info">Technikerinformationen</string>
+
+    <!--forget password -->
+    <string name="forget_note">
+Bitte geben Sie Ihre angegebene E-Mail-Adresse ein und klicken Sie auf die Schaltfläche zum Senden.\n Sie erhalten eine E-Mail mit einem Geheimcode, um Ihr vergessenes Passwort wiederherzustellen</string>
+    <string name="have_code">Hast du schon ein Passwort?</string>
+    <string name="forget_instruction">Bitte geben Sie Ihren Geheimcode und Ihr neues Passwort ein</string>
+    <string name="secret_code">Geheim Code</string>
+    <string name="new_password">Neues Kennwort</string>
+
+    <!--list of cities-->
+    <array name="cities">
+        <item>Lahore</item>
+        <item>Karachi</item>
+        <item>Islamabad</item>
+        <item>Multan</item>
+        <item>Faisalabad</item>
+        <item>Rawalpindi</item>
+        <item>Peshawer</item>
+        <item>Quetta</item>
+        <item>Gawader</item>
+
+    </array>
+
+
+    <!--list of services-->
+    <array name="services">
+        <item>Elektriker</item>
+        <item>Klempner</item>
+        <item>Zimmermann</item>
+
+    </array>
+
+    <string name="conform">Suchergebnis</string>
+
+
+    <string name="back">zurück</string>
+    <string name="aboutApp">Über Smart Fix</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="order_place">Bestellung aufgegeben</string>
+    <string name="order_note">Unser Techniker kommt innerhalb von 5 Minuten zu Ihrem Standort</string>
+    <string name="chnage_language">Sprache ändern</string>
+
+
+
+
+
+
+</resources>
